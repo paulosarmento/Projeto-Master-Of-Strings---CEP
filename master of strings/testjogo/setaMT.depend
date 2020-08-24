@@ -1,0 +1,5802 @@
+# depslib dependency file v1.0
+1318276253 source:e:\game development\setamt\main.cpp
+	<irrlicht.h>
+
+1287927700 e:\game development\irrlicht-1.7.2\include\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1287926788 e:\game development\irrlicht-1.7.2\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1287916978 e:\game development\irrlicht-1.7.2\include\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1287916980 e:\game development\irrlicht-1.7.2\include\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1287916980 e:\game development\irrlicht-1.7.2\include\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\vector3d.h
+	"irrMath.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ireferencecounted.h
+	"irrTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1287916980 e:\game development\irrlicht-1.7.2\include\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\position2d.h
+	"vector2d.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1287916980 e:\game development\irrlicht-1.7.2\include\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1287916978 e:\game development\irrlicht-1.7.2\include\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\heapsort.h
+	"irrTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ematerialtypes.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ematerialflags.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\svertexindex.h
+	"irrTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ehardwarebufferflags.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\eprimitivetypes.h
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\path.h
+	"irrString.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ecullingtypes.h
+	"irrTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\edebugscenetypes.h
+
+1287916980 e:\game development\irrlicht-1.7.2\include\edriverfeatures.h
+
+1287916980 e:\game development\irrlicht-1.7.2\include\edrivertypes.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\eguialignment.h
+
+1287916980 e:\game development\irrlicht-1.7.2\include\eguielementtypes.h
+	"irrTypes.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\emeshwriterenums.h
+	"irrTypes.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\emessageboxflags.h
+
+1287916980 e:\game development\irrlicht-1.7.2\include\escenenodeanimatortypes.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\escenenodetypes.h
+	"irrTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\eterrainelements.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\fast_atof.h
+	"irrMath.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\sexposedvideodata.h
+
+1287916980 e:\game development\irrlicht-1.7.2\include\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ilogger.h
+	"IReferenceCounted.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\keycodes.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\eattributes.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ibonescenenode.h
+	"ISceneNode.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\eshadertypes.h
+	"irrTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguibutton.h
+	"IGUIElement.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iguicheckbox.h
+	"IGUIElement.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iguicombobox.h
+	"IGUIElement.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguicontextmenu.h
+	"IGUIElement.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguifontbitmap.h
+	"IGUIFont.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguiimage.h
+	"IGUIElement.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguimeshviewer.h
+	"IGUIElement.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguiscrollbar.h
+	"IGUIElement.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguispinbox.h
+	"IGUIElement.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguitoolbar.h
+	"IGUIElement.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\slight.h
+	"SColor.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\imeshscenenode.h
+	"ISceneNode.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iosoperator.h
+	"IReferenceCounted.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\edevicetypes.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\itimer.h
+	"IReferenceCounted.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\sceneparameters.h
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\itextscenenode.h
+	"ISceneNode.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\skeymap.h
+	"Keycodes.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1287916980 e:\game development\irrlicht-1.7.2\include\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287916978 e:\game development\irrlicht-1.7.2\include\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1318285306 source:f:\c++\setamt\main.cpp
+	<irrlicht.h>
+	"math.h"
+
+1287931300 f:\c++\irrlicht-1.7.2\include\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1287930388 f:\c++\irrlicht-1.7.2\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1287920578 f:\c++\irrlicht-1.7.2\include\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1287920580 f:\c++\irrlicht-1.7.2\include\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1287920580 f:\c++\irrlicht-1.7.2\include\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\vector3d.h
+	"irrMath.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ireferencecounted.h
+	"irrTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1287920580 f:\c++\irrlicht-1.7.2\include\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\position2d.h
+	"vector2d.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1287920580 f:\c++\irrlicht-1.7.2\include\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1287920578 f:\c++\irrlicht-1.7.2\include\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\heapsort.h
+	"irrTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ematerialtypes.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ematerialflags.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\svertexindex.h
+	"irrTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ehardwarebufferflags.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\eprimitivetypes.h
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\path.h
+	"irrString.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ecullingtypes.h
+	"irrTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\edebugscenetypes.h
+
+1287920580 f:\c++\irrlicht-1.7.2\include\edriverfeatures.h
+
+1287920580 f:\c++\irrlicht-1.7.2\include\edrivertypes.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\eguialignment.h
+
+1287920580 f:\c++\irrlicht-1.7.2\include\eguielementtypes.h
+	"irrTypes.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\emeshwriterenums.h
+	"irrTypes.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\emessageboxflags.h
+
+1287920580 f:\c++\irrlicht-1.7.2\include\escenenodeanimatortypes.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\escenenodetypes.h
+	"irrTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\eterrainelements.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\fast_atof.h
+	"irrMath.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\sexposedvideodata.h
+
+1287920580 f:\c++\irrlicht-1.7.2\include\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ilogger.h
+	"IReferenceCounted.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\keycodes.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\eattributes.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ibonescenenode.h
+	"ISceneNode.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\eshadertypes.h
+	"irrTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguibutton.h
+	"IGUIElement.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iguicheckbox.h
+	"IGUIElement.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iguicombobox.h
+	"IGUIElement.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguicontextmenu.h
+	"IGUIElement.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguifontbitmap.h
+	"IGUIFont.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguiimage.h
+	"IGUIElement.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguimeshviewer.h
+	"IGUIElement.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguiscrollbar.h
+	"IGUIElement.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguispinbox.h
+	"IGUIElement.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguitoolbar.h
+	"IGUIElement.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\slight.h
+	"SColor.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\imeshscenenode.h
+	"ISceneNode.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iosoperator.h
+	"IReferenceCounted.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\edevicetypes.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\itimer.h
+	"IReferenceCounted.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\sceneparameters.h
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\itextscenenode.h
+	"ISceneNode.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\skeymap.h
+	"Keycodes.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1287920580 f:\c++\irrlicht-1.7.2\include\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287920578 f:\c++\irrlicht-1.7.2\include\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1319563766 source:c:\users\casasbahia\desktop\setamt\main.cpp
+	<irrlicht.h>
+	"math.h"
+
+1287934900 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1287933988 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\vector3d.h
+	"irrMath.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ireferencecounted.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\position2d.h
+	"vector2d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\heapsort.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ematerialtypes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ematerialflags.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\svertexindex.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ehardwarebufferflags.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\eprimitivetypes.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\path.h
+	"irrString.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ecullingtypes.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\edebugscenetypes.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\edriverfeatures.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\edrivertypes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\eguialignment.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\eguielementtypes.h
+	"irrTypes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\emeshwriterenums.h
+	"irrTypes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\emessageboxflags.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\escenenodeanimatortypes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\escenenodetypes.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\eterrainelements.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\fast_atof.h
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\sexposedvideodata.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ilogger.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\keycodes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\eattributes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ibonescenenode.h
+	"ISceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\eshadertypes.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguibutton.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguicheckbox.h
+	"IGUIElement.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguicombobox.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguicontextmenu.h
+	"IGUIElement.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguifontbitmap.h
+	"IGUIFont.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguiimage.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguimeshviewer.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguiscrollbar.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguispinbox.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguitoolbar.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\slight.h
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imeshscenenode.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iosoperator.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\edevicetypes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\itimer.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\sceneparameters.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\itextscenenode.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\skeymap.h
+	"Keycodes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht-1.7.2\include\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1319981719 source:c:\users\casasbahia\desktop\test jogo\main.cpp
+	<irrlicht.h>
+	"math.h"
+
+1320277602 source:c:\users\casasbahia\desktop\testjogo\main.cpp
+	<irrlicht.h>
+	<math.h>
+
+1287934900 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1287933988 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\vector3d.h
+	"irrMath.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ireferencecounted.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\position2d.h
+	"vector2d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\heapsort.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ematerialtypes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ematerialflags.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\svertexindex.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ehardwarebufferflags.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\eprimitivetypes.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\path.h
+	"irrString.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ecullingtypes.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\edebugscenetypes.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\edriverfeatures.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\edrivertypes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\eguialignment.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\eguielementtypes.h
+	"irrTypes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\emeshwriterenums.h
+	"irrTypes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\emessageboxflags.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\escenenodeanimatortypes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\escenenodetypes.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\eterrainelements.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\fast_atof.h
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\sexposedvideodata.h
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ilogger.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\keycodes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\eattributes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ibonescenenode.h
+	"ISceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\eshadertypes.h
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguibutton.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguicheckbox.h
+	"IGUIElement.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguicombobox.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguicontextmenu.h
+	"IGUIElement.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguifontbitmap.h
+	"IGUIFont.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguiimage.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguimeshviewer.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguiscrollbar.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguispinbox.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguitoolbar.h
+	"IGUIElement.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\slight.h
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imeshscenenode.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iosoperator.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\edevicetypes.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\itimer.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\sceneparameters.h
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\itextscenenode.h
+	"ISceneNode.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\skeymap.h
+	"Keycodes.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1287924180 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287924178 c:\users\casasbahia\documents\escola cep\ney linguagem c++\irrlicht\include\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1320989028 source:f:\projeto\testjogo\main.cpp
+	<irrlicht.h>
+	<math.h>
+
+1321030582 source:d:\projeto\testjogo\main.cpp
+	<irrlicht.h>
+	<math.h>
+
+1287931300 d:\c++\irrlicht-1.7.2\include\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1287930388 d:\c++\irrlicht-1.7.2\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1287920578 d:\c++\irrlicht-1.7.2\include\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1287920580 d:\c++\irrlicht-1.7.2\include\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1287920580 d:\c++\irrlicht-1.7.2\include\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\vector3d.h
+	"irrMath.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ireferencecounted.h
+	"irrTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1287920580 d:\c++\irrlicht-1.7.2\include\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\position2d.h
+	"vector2d.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1287920580 d:\c++\irrlicht-1.7.2\include\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1287920578 d:\c++\irrlicht-1.7.2\include\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\heapsort.h
+	"irrTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ematerialtypes.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ematerialflags.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\svertexindex.h
+	"irrTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ehardwarebufferflags.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\eprimitivetypes.h
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\path.h
+	"irrString.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ecullingtypes.h
+	"irrTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\edebugscenetypes.h
+
+1287920580 d:\c++\irrlicht-1.7.2\include\edriverfeatures.h
+
+1287920580 d:\c++\irrlicht-1.7.2\include\edrivertypes.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\eguialignment.h
+
+1287920580 d:\c++\irrlicht-1.7.2\include\eguielementtypes.h
+	"irrTypes.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\emeshwriterenums.h
+	"irrTypes.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\emessageboxflags.h
+
+1287920580 d:\c++\irrlicht-1.7.2\include\escenenodeanimatortypes.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\escenenodetypes.h
+	"irrTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\eterrainelements.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\fast_atof.h
+	"irrMath.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\sexposedvideodata.h
+
+1287920580 d:\c++\irrlicht-1.7.2\include\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ilogger.h
+	"IReferenceCounted.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\keycodes.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\eattributes.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ibonescenenode.h
+	"ISceneNode.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\eshadertypes.h
+	"irrTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguibutton.h
+	"IGUIElement.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iguicheckbox.h
+	"IGUIElement.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iguicombobox.h
+	"IGUIElement.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguicontextmenu.h
+	"IGUIElement.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguifontbitmap.h
+	"IGUIFont.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguiimage.h
+	"IGUIElement.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguimeshviewer.h
+	"IGUIElement.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguiscrollbar.h
+	"IGUIElement.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguispinbox.h
+	"IGUIElement.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguitoolbar.h
+	"IGUIElement.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\slight.h
+	"SColor.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\imeshscenenode.h
+	"ISceneNode.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iosoperator.h
+	"IReferenceCounted.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\edevicetypes.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\itimer.h
+	"IReferenceCounted.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\sceneparameters.h
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\itextscenenode.h
+	"ISceneNode.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\skeymap.h
+	"Keycodes.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1287920580 d:\c++\irrlicht-1.7.2\include\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287920578 d:\c++\irrlicht-1.7.2\include\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1321045640 source:g:\projeto\testjogo\main.cpp
+	<irrlicht.h>
+	<math.h>
+
+1287931300 g:\c++\irrlicht-1.7.2\include\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1287930388 g:\c++\irrlicht-1.7.2\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1287920578 g:\c++\irrlicht-1.7.2\include\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1287920580 g:\c++\irrlicht-1.7.2\include\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1287920580 g:\c++\irrlicht-1.7.2\include\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\vector3d.h
+	"irrMath.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ireferencecounted.h
+	"irrTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1287920580 g:\c++\irrlicht-1.7.2\include\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\position2d.h
+	"vector2d.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1287920580 g:\c++\irrlicht-1.7.2\include\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1287920578 g:\c++\irrlicht-1.7.2\include\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\heapsort.h
+	"irrTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ematerialtypes.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ematerialflags.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\svertexindex.h
+	"irrTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ehardwarebufferflags.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\eprimitivetypes.h
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\path.h
+	"irrString.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ecullingtypes.h
+	"irrTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\edebugscenetypes.h
+
+1287920580 g:\c++\irrlicht-1.7.2\include\edriverfeatures.h
+
+1287920580 g:\c++\irrlicht-1.7.2\include\edrivertypes.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\eguialignment.h
+
+1287920580 g:\c++\irrlicht-1.7.2\include\eguielementtypes.h
+	"irrTypes.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\emeshwriterenums.h
+	"irrTypes.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\emessageboxflags.h
+
+1287920580 g:\c++\irrlicht-1.7.2\include\escenenodeanimatortypes.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\escenenodetypes.h
+	"irrTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\eterrainelements.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\fast_atof.h
+	"irrMath.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\sexposedvideodata.h
+
+1287920580 g:\c++\irrlicht-1.7.2\include\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ilogger.h
+	"IReferenceCounted.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\keycodes.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\eattributes.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ibonescenenode.h
+	"ISceneNode.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\eshadertypes.h
+	"irrTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguibutton.h
+	"IGUIElement.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iguicheckbox.h
+	"IGUIElement.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iguicombobox.h
+	"IGUIElement.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguicontextmenu.h
+	"IGUIElement.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguifontbitmap.h
+	"IGUIFont.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguiimage.h
+	"IGUIElement.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguimeshviewer.h
+	"IGUIElement.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguiscrollbar.h
+	"IGUIElement.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguispinbox.h
+	"IGUIElement.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguitoolbar.h
+	"IGUIElement.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\slight.h
+	"SColor.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\imeshscenenode.h
+	"ISceneNode.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iosoperator.h
+	"IReferenceCounted.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\edevicetypes.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\itimer.h
+	"IReferenceCounted.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\sceneparameters.h
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\itextscenenode.h
+	"ISceneNode.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\skeymap.h
+	"Keycodes.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1287920580 g:\c++\irrlicht-1.7.2\include\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287920578 g:\c++\irrlicht-1.7.2\include\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1321046550 source:c:\users\casasbahia\desktop\master of strings\testjogo\main.cpp
+	<irrlicht.h>
+	<math.h>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="setaMT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin\Release\setaMT" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="..\testjogo" />
+				<Option object_output="obj\Release" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="..\..\..\Documents\Escola CEP\Ney Linguagem C++\irrlicht\include" />
+		</Compiler>
+		<Linker>
+			<Add library="..\..\..\Documents\Escola CEP\Ney Linguagem C++\irrlicht\lib\Win32-gcc\libIrrlicht.dll.a" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add directory="E:\Game Development\irrlicht-1.7.2\lib\Win32-gcc" />
+		</Linker>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
